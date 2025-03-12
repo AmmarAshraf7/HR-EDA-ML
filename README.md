@@ -1,4 +1,3 @@
-# HR-EDA-ML
 # HR Employee Churn: End-to-End ML & EDA (99% Accuracy)
 
 ## 📌 Project Overview
